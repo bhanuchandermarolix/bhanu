@@ -1,1 +1,9 @@
-1st line from mumbai
+$ cd my-web-app-repo 
+$ git add -A 
+$ git commit -m "initial commit" 
+$ git push
+
+$ git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/MyWebAppRepo my-web-app-repo
+Cloning into 'my-web-app-repo'...
+Username for 'https://git-codecommit.us-east-1.amazonaws.com/v1/repos/MyWebAppRepo': xxxx
+Password for 'https://xxxx@git-codecommit.us-east-1.amazonaws.com/v1/repos/MyWebAppRepo': xxxx
